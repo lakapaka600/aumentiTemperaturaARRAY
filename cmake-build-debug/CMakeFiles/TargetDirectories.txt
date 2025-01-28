@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/temperature/cmake-build-debug/CMakeFiles/temperature.dir
+C:/Users/User/CLionProjects/temperature/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/temperature/cmake-build-debug/CMakeFiles/rebuild_cache.dir
