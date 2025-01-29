@@ -8,7 +8,7 @@ int main(void) {
     scanf("%d",&n);
     float temperature[n];
     for(int i=0;i<n;i++) {
-        printf("Enter temperature : ");
+        printf("inserisci temperature : ");
         scanf("%f",&temperature[i]);
     }
     for(int i=0;i<n-1;i++) {
